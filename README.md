@@ -6,6 +6,8 @@ A simple client for the [BunnyCDN API](https://bunnycdn.docs.apiary.io).
 
 I started writing this module, before I found out there was already a [similar module](https://github.com/UintaGroup/bunnycdn-node), which is complete and tested. So, I have stopped developing this module for now, and I recommend using the other one. I will resume development if the other module is deprecated.
 
+other repo not update 2008.
+
 ## Installation
 
 **NOTICE: I have unpublished this module from npm to prevent cluttering the registry.**
